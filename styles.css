@@ -1,0 +1,17 @@
+#parent {
+	
+}
+
+.jumbotron {
+	background-image: radial-gradient(circle, #FCEA1C, #FE9A4A, #CB7D63, #9F836E, #556775);
+}
+
+.row {
+ color: red;
+}
+
+.card-body {
+	font-size: 15px; 
+	background-color: rgba(230,230,229,0.5);
+}
+
